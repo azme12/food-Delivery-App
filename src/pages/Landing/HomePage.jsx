@@ -76,12 +76,10 @@ export default function HomePage() {
               WebkitTextFillColor: "transparent", // Make text color transparent to show the gradient
             }}
           >
-            Order us
+            Order Now
           </Typography>
           <Typography variant="h6" fontSize={"1.7vw"}>
-            In publishing and graphic design, Lorem ipsum is a placeholder text
-            commonly used to demonstrate the visual form of a document or a
-            typeface without.
+          Discover the best restaurants near you, offering delicious meals and excellent service.
           </Typography>
           <Box
             sx={{
@@ -251,13 +249,12 @@ export default function HomePage() {
                   fontWeight: 600,
                 }}
               >
-                50% Off
+                30% Off
               </Typography>
             </Typography>
             <Typography variant="h6" color="#ffffff" fontSize={"1.5vw"}>
-              In publishing and graphic design, Lorem ipsum is a placeholder
-              text commonly used to demonstrate the visual form of a document or
-              a typeface without.
+            Discover the best restaurants near you, offering delicious meals and excellent service.
+
             </Typography>
             <Box
               sx={{
@@ -315,7 +312,7 @@ export default function HomePage() {
             fontWeight: 600,
           }}
         >
-          Top Restaurants
+          Top Restaurants Hotels
         </Typography>
         <Box
           sx={{

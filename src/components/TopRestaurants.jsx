@@ -57,8 +57,7 @@ export default function TopRestaurants({ restaurant }) {
             font: "Inter",
           }}
         >
-          In publishing and graphic design, Lorem ipsum is a placeholder text
-          commonly used to...
+            Discover the best restaurants near you, offering delicious meals and excellent service.
         </Typography>
       </Box>
       <Box
